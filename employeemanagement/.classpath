@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="empmswithdb/src/main/java"/>
+	<classpathentry kind="src" path="projectms/src/main/java"/>
+	<classpathentry kind="src" path="projectms/src/test/java"/>
+	<classpathentry kind="src" path="registryserver/src/main/java"/>
+	<classpathentry kind="lib" path="empmswithdb/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="projectms/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="registryserver/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
